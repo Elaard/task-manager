@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: ./shared-steps.yml
+      - uses: ./.github/workflows/shared-steps.yml
