@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: ./.github/shared-steps.yml
+      - uses: ./shared-steps.yml
       - name: Test
         run: dotnet test --no-build --verbosity normal
