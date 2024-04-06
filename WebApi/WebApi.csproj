@@ -23,4 +23,12 @@
     <Folder Include="Repositories\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\barte\source\repos\task-manager\WebApi\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\barte\source\repos\task-manager\WebApi\.editorconfig" />
+  </ItemGroup>
+
 </Project>
