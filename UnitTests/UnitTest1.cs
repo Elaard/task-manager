@@ -5,7 +5,7 @@ namespace UnitTests
         [Fact]
         public void Test1()
         {
-
+            throw new NotImplementedException();
         }
     }
 }
